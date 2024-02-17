@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity2">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_margin="10dp"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="
+
+
+
+Ut ornare turpis a tortor ullamcorper, non semper sem porttitor. Donec hendrerit diam ac sapien laoreet luctus. Sed consectetur luctus ullamcorper. Vivamus sit amet mauris non est egestas blandit tempor a velit. Mauris commodo sapien risus, eu ultricies lacus efficitur in. Ut interdum augue dolor, ac efficitur elit auctor et. Nulla facilisi. Fusce pharetra aliquam nulla, non suscipit nibh mollis eu. Maecenas convallis mollis massa, eu accumsan urna aliquam nec. Integer fringilla velit vel feugiat ullamcorper. Vestibulum quis vulputate nisl, ac ullamcorper leo.
+
+Mauris ultricies scelerisque ornare. Integer eget imperdiet diam. Praesent nec aliquam felis. Maecenas id nibh sed augue tincidunt ullamcorper. Phasellus ut scelerisque purus, sit amet consectetur nibh. Praesent sodales at nibh sed sollicitudin. Donec arcu neque, bibendum ut cursus quis, imperdiet quis magna.
+
+Aliquam vitae massa ligula. Aenean mattis vel nulla eget finibus. Sed egestas dapibus purus nec ultricies. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec sit amet augue quam. Morbi lobortis erat a egestas hendrerit. Pellentesque non cursus nisl, in condimentum arcu. Aenean libero neque, vehicula ac hendrerit ut, iaculis a purus. Mauris semper, mauris sit amet dictum maximus, velit turpis pellentesque sem, id dictum nunc sem id ipsum. Maecenas rhoncus, libero ac facilisis semper, ipsum erat viverra lectus, quis malesuada dui libero sed dui. Integer consequat dui purus, ut consequat ante vehicula a. Proin tellus tortor, semper quis facilisis et, ultricies sit amet elit.
+
+Sed commodo facilisis tortor eu consequat. Vivamus tellus libero, pulvinar quis urna ac, dapibus lobortis lacus. Maecenas sodales tortor id odio scelerisque, vel interdum augue rhoncus. Nullam pretium sodales turpis, ac volutpat lorem sodales tristique. Donec nec lacus velit. Etiam turpis nibh, ullamcorper id cursus non, commodo a nibh. Nullam malesuada luctus ex non imperdiet.
+
+Quisque id dictum massa, vitae tincidunt sem. Aliquam erat volutpat. Fusce et vulputate enim. Nam commodo nec odio et ullamcorper. Proin non lectus nulla. Proin sed tortor aliquam, auctor justo sollicitudin, pulvinar nibh. Phasellus in est lacus. Donec eget augue volutpat, feugiat lectus at, mollis dolor.
+
+Etiam ornare vestibulum tellus ac ullamcorper. Donec nec ligula gravida, auctor dui id, malesuada felis. Integer urna nisi, convallis sit amet sollicitudin et, molestie sed sapien. Praesent in viverra nibh, eget fermentum ex. Duis ac sem id mi interdum scelerisque vitae eget velit. Proin ultricies, arcu a cursus malesuada, felis velit porta odio, vel venenatis enim erat vitae mi. Aliquam erat volutpat. Aliquam posuere, orci sed dictum luctus, elit tortor finibus tellus, vel ornare erat leo ut nunc. Aenean euismod faucibus orci, eu consectetur purus vehicula id. Nunc pretium, metus ut mattis dapibus, eros neque accumsan dui, non tempus nulla erat sit amet lacus. Curabitur suscipit velit ut enim blandit fringilla. Nunc pellentesque.
+
+"
+
+            android:textSize="20dp"
+            tools:layout_editor_absoluteX="98dp"
+            tools:layout_editor_absoluteY="94dp" />
+
+
+
+
+    </ScrollView>
+</LinearLayout>
